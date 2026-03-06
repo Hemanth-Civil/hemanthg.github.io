@@ -13,7 +13,8 @@ Civil Engineering portfolio featuring academic projects, green infrastructure id
 
 ## My Project
 ![House Construction execution](## My Project
-![House Design](IMG_20231223_094547.jpgIMG_20231221_094858.jpg))
+![House Design](IMG_20231223_094547.jpg))
+![Construction Execution](IMG_20231221_094858.jpg)
 This project explains the basic steps involved in construction execution such as site preparation, foundation work, structural construction, and finishing activities. It demonstrates
 
 ---
