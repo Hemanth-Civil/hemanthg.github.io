@@ -11,3 +11,6 @@ Civil Engineering portfolio featuring academic projects, green infrastructure id
 - Staadpro (Basic)
 - Civil Engineering Concepts
 - GATE Preparation
+## Modern Residential Building Design
+[Modern House Design]-Revit
+3D model of a modern residential building created for civil engineering design study.
