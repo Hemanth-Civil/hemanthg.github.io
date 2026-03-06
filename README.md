@@ -21,7 +21,7 @@ This project explains the basic steps involved in construction execution such as
 
 ## Skills
 - AutoCAD
-- - Revit (BIM)
+- Revit (BIM)
 - Staadpro (Basic)
 - Structural Basics
 - Civil Engineering Design
