@@ -10,6 +10,7 @@ Civil Engineering portfolio featuring academic projects, green infrastructure id
 
 ### Modern Residential Building Design
 ![Modern House Design](IMG_20260306_103908.jpg)
+(IMG_20260306_103917.jpg)
 
 3D model of a modern residential building designed for civil engineering study and architectural visualization.
 
