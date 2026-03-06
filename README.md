@@ -14,7 +14,7 @@ Civil Engineering portfolio featuring academic projects, green infrastructure id
 ## My Project
 ![House Construction execution](## My Project
 ![House Design](IMG_20231223_094547.jpg))
-3D model of a modern residential building designed for civil engineering study and architectural visualization.
+This project explains the basic steps involved in construction execution such as site preparation, foundation work, structural construction, and finishing activities. It demonstrates
 
 ---
 
